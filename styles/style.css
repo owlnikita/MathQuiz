@@ -80,10 +80,13 @@ a{
 
 .start_btn{
     color: #fff;
-    max-width: 478px;
-    padding: 23px 81px;
+    /* max-width: 478px; */
+    /* padding: 23px 81px;
+    font-size: 64px; */
+    max-width: 0px;
+    padding: 0 0;
+    font-size: 0px;
     font-weight: 700;
-    font-size: 64px;
     line-height: 77px;
     text-align: center;
     letter-spacing: 0.15em;
